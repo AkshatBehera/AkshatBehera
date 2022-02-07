@@ -1,6 +1,7 @@
 👋 Hello World - I’m @AkshatBehera
 
-👀 I’m interested in Machine Learning, Artificial Intelligence - Self Driving Cars - Avionics and NeuroTechnology
+👀 I’m interested in Science, Computers, Programming  and Technology.
+Currently Inclined Towards Machine Learning, Artificial Intelligence - Self Driving Cars - Avionics and NeuroTechnology
 
 Twitter: [@akshatbehera](twitter.com/akshatbehera)
 
