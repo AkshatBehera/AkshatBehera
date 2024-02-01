@@ -2,7 +2,7 @@
 
 👀 I’m interested in Science, Computers, Programming  and Technology.
 
-Currently Inclined Towards Machine Learning, Artificial Intelligence - Self Driving Cars - Avionics and NeuroTechnology
+Inclined Towards Machine Learning, Artificial Intelligence - Self Driving Cars - Avionics and NeuroTechnology
 
 Twitter: [@akshatbehera](twitter.com/akshatbehera)
 
