@@ -4,7 +4,7 @@
 
 Inclined Towards Machine Learning, Artificial Intelligence - Self Driving Cars - Avionics and NeuroTechnology
 
-Twitter: [@akshatbehera](twitter.com/akshatbehera)
+X: [@akshatbehera](twitter.com/akshatbehera)
 
 <!--- LinkedIn: [akshat-behera](linkedin.com/in/akshat-behera) --->
 
